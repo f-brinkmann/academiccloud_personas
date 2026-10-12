@@ -6,7 +6,7 @@
   "enable_tools": true,
   "temperature": 0,
   "arcana": {
-     "id" : "fabian.brinkmann/EDS_WS26-27"
+     "id" : "fabian.brinkmann/EDS_reduced"
     },
   "top_p": 0.05,
   "messages": [
