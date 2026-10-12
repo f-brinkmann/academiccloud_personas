@@ -4,11 +4,11 @@
   "model": "qwen3.6-35b-a3b",
   "model-name": "Qwen 3.6 35B A3B",
   "enable_tools": true,
-  "temperature": 0,
+  "temperature": 0.2,
   "arcana": {
      "id" : "fabian.brinkmann/EDS_reduced"
     },
-  "top_p": 0.05,
+  "top_p": 0.5,
   "messages": [
     {
   "role": "system",
